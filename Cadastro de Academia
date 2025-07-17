@@ -1,0 +1,16 @@
+# 5. Interação com o usuário
+# para obter dados digitados pelo usuário, usamos a função input().
+
+print("Bem vindo a nossa academia start strong! ")
+nome_usuário = input("Digite seu nome:")
+CPF = input("Digite seu CPF:")
+idade = input("informe sua idade:")
+peso = input("inforema sua peso (kg):")
+altura = input("informe sua altura(m):")
+objetivo = input("informe seu objetivo de treino:")
+print("Bem vindo a academia start strong,",nome_usuário)
+print("Seu CPF informado=",CPF)
+print("sua idade informada=",idade)
+print("seu peso informado=",peso)
+print("sua altura informada=",altura)
+print("seu objetivo informado=",objetivo)
